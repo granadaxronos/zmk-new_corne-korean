@@ -46,7 +46,7 @@ layers:
   - LGUI
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
-  - {t: '$$mdi:apple-keyboard-shift$$', h: Fn}
+  - '&td0'
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
   NUMBER:
@@ -193,6 +193,6 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - {type: held alternate}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
