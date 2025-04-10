@@ -176,7 +176,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - PRINTSCREEN
   - F12
-  - A
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:progress-download$$
@@ -184,7 +184,7 @@ layers:
   - '&mkp MB5'
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - SLEEP
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:progress-download$$
   - {t: '$$mdi:backup-restore$$', type: bootloader}
