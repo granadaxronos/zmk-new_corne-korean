@@ -1,9 +1,13 @@
 - [中文](README.md)
 - [English](README_EN.md)
+- [한글, Korean]
 
-# 睫毛外设 (Eyelash Peripherals) Corne ZMK 仓库
+영어/한국어 눈꺼플 corne 키맵 정식 발표
 
-**该键盘与 [foostan's Corne](https://github.com/foostan/crkbd) 不同，无法与标准的 `corne` 固件兼容。**
+중국산 눈썹 코르네(Eyelash Corne, 睫毛 corne) 키보드의 영문/한글 타이핑 고속화 키맵
+
+ 일본인 푸스탕이 올린 오리지널 코르네 키보드 [foostan's Corne](https://github.com/foostan/crkbd) 기반에서 문제점 발견. 일본어 입력 특화로 키맵에서 좌우 쉬프트 대칭 중복과 한영, 한자 전원 매핑이 없음.
+ 실제로 
 
 ![睫毛外设 Corne 的照片](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
 
